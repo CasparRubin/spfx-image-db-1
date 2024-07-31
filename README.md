@@ -4,8 +4,6 @@
 
 A straightforward SharePoint Online WebPart designed as an image database, allowing users to easily upload, categorize, filter, and search for images.
 
-[picture of the solution in action, if possible]
-
 ## Used Versions
 
 ![SPFx](https://img.shields.io/badge/version-1.19.0-green.svg)
