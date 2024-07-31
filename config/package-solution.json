@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-image-db-1-client-side-solution",
+    "id": "73d3e3be-36dd-4533-b6dc-96c3e7bebbcb",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.19.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "spfx-image-db-1 description"
+      },
+      "longDescription": {
+        "default": "spfx-image-db-1 description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-image-db-1 Feature",
+        "description": "The feature that activates elements of the spfx-image-db-1 solution.",
+        "id": "6361dedf-110f-4043-95f4-aa1ad4c646e5",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-image-db-1.sppkg"
+  }
+}

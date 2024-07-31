@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "spfx-image-db-1-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/spfxImageDb1/SpfxImageDb1WebPart.js",
+          "manifest": "./src/webparts/spfxImageDb1/SpfxImageDb1WebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "SpfxImageDb1WebPartStrings": "lib/webparts/spfxImageDb1/loc/{locale}.js"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.20.3",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.19.0",
+    "libraryName": "spfx-image-db-1",
+    "libraryId": "73d3e3be-36dd-4533-b6dc-96c3e7bebbcb",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "spfx-image-db-1",
+    "solutionShortDescription": "spfx-image-db-1 description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
